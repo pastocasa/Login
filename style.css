@@ -17,3 +17,19 @@ footer{
 header{
     display: flex;
 }
+
+#usuario{
+    margin-left: 45%;
+}
+
+#logueado{
+    margin-top: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.inline{
+    display: inline-block;
+}
